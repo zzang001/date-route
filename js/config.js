@@ -1,0 +1,8 @@
+const DateRouteConfig = {
+  GROQ_API_KEY: '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',
+  PRIMARY_MODEL: 'llama-3.3-70b-versatile',
+  FALLBACK_MODEL: 'llama-3.1-8b-instant',
+  PRIMARY_TIMEOUT_MS: 30000,
+  TOTAL_TIMEOUT_MS: 45000,
+  KAKAO_REST_API_KEY: 'b1974808be8e1e4d8a4fa1cd83116da8',
+};
